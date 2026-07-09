@@ -33,16 +33,27 @@ We do **not** collect personally identifiable information such as your name, ema
 
 ## Advertising
 
-RoboVacuum uses third-party advertising services, including **Unity Ads / ironSource LevelPlay**.
+RoboVacuum uses **Google AdMob** to display advertisements.
 
-These services may collect and process device identifiers to:
+Google AdMob may collect and process certain data, such as device identifiers, advertising identifiers, app activity, and ad interaction data, in order to:
 
-- Display advertisements
+- Display ads
 - Measure ad performance
-- Prevent fraud and abuse
+- Limit repeated ads
+- Detect and prevent fraud or abuse
+- Provide personalized or non-personalized advertising, depending on your settings and applicable laws
 
-You can review Unity’s privacy policy here:  
-https://unity.com/legal/privacy-policy
+You can learn more about how Google collects and uses data here:
+
+https://policies.google.com/privacy
+
+You can also learn more about how Google uses information from apps and sites that use Google services here:
+
+https://policies.google.com/technologies/partner-sites
+
+You may control or limit personalized advertising through your device settings or Google ad settings:
+
+https://myadcenter.google.com
 
 ---
 
